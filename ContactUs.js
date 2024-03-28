@@ -10,7 +10,7 @@ function ContactUs() {
                 <Container>
                     <div className="footer bg-light text-dark p-4 rounded text-center">
                         <h1>Contact Us:</h1>
-                        <p>Phone: 8320265766</p>
+                        <p>Phone: +233593596889</p>
                         <p>Email: sharemeal@gmail.com</p>
                         <p>&copy; 2024 ShareMeal. All rights reserved.</p>
                     </div>
