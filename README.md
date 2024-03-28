@@ -7,8 +7,11 @@ The project also emphasizes sustainability by encouraging the donation of perish
 
 With a user-friendly design and a focus on accessibility, Share Meal aims to connect donors and recipients seamlessly, fostering a sense of unity and empathy within communities.
 
-BACKGROUND
+BACKGROUND 
 ![background](https://github.com/agyeiclement377/Share-Meal/assets/159913676/9fdcffe1-3c2c-44c8-b095-b3587217630f)
 
 LOGO
 ![logo](https://github.com/agyeiclement377/Share-Meal/assets/159913676/6f2ca6db-e696-455d-b39a-2da00a815944)
+
+BACKGROUND 1
+![background_1](https://github.com/agyeiclement377/Share-Meal/assets/159913676/79876a43-a3ba-47b4-9bd9-702cd83952f9)
