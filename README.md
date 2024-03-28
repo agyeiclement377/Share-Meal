@@ -25,4 +25,5 @@ Take a look at the importance of https://greenviewsresidential.com/the-importanc
 
 In addition to that, as per the Global Food Banking, it is estimated that approximately 3.2 million tons of food is either lost or wasted along the supply chain in Ghana, costing about 762.32 billion in Ghanaian cedis (GH₵). 
 
-https://github.com/agyeiclement377/Share-Meal/files/14796148/ghana-food-wasted.zip
+https://github.com/agyeiclement377/Share-Meal/assets/159913676/2c30e38e-8653-4cf2-9d51-2d9fda29afa2
+
