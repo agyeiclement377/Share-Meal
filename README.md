@@ -15,3 +15,14 @@ LOGO
 
 BACKGROUND 1
 ![background_1](https://github.com/agyeiclement377/Share-Meal/assets/159913676/79876a43-a3ba-47b4-9bd9-702cd83952f9)
+
+The State of Food Waste in Ghana
+Food waste remains a critical concern in Ghana, where nearly one-third of all food produced is lost or wasted. This issue is particularly poignant considering the prevalence of food insecurity in the country. 
+
+According to the Food and Agriculture Organization (FAO), around 5 million Ghanaians are undernourished, highlighting the urgency of addressing food waste in a manner that promotes equitable access to nutrition.
+
+Take a look at the importance of https://greenviewsresidential.com/the-importance-of-urban-agriculture-in-cities-like-accra/
+
+In addition to that, as per the Global Food Banking, it is estimated that approximately 3.2 million tons of food is either lost or wasted along the supply chain in Ghana, costing about 762.32 billion in Ghanaian cedis (GH₵). 
+
+https://github.com/agyeiclement377/Share-Meal/files/14796148/ghana-food-wasted.zip
