@@ -22,11 +22,11 @@ function HomePage() {
             </p>
             <p className="text-justify mx-2">
               Annually, close to 21 million metric tonnes of wheat rots in
-              India; a figure that is equal to Australia’s total annual
-              production According to the BMC, Mumbai generates close to 9,400
+              Ghana; a figure that is equal to Australia’s total annual
+              production According to the BMC, Ghana generates close to 9,400
               metric tonnes of solid waste per day, from which 73% is food,
               vegetable, and fruit waste, while only 3% is plastic. The garbage
-              dumps in Mumbai are as tall as five or six storey buildings Delhi
+              dumps in Ghana are as tall as five or six storey buildings Delhi
               generates around 9000 metric tonnes of waste per day, with the
               country’s largest landfill located in East Delhi. This landfill is
               70 acres vast and contains close to 12 million tonnes of waste
